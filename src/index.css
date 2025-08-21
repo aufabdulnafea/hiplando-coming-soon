@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+
+@theme {
+  /* Fonts */
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Poppins", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-merr: "Merriweather", serif;
+
+  /* Brand colors (from your logo) */
+  --color-primary-50:  #E7EFEC;
+  --color-primary-100: #CFDFD9;
+  --color-primary-200: #ABC7BC;
+  --color-primary-300: #87B09F;
+  --color-primary-400: #4B886F;
+  --color-primary-500: #0F603F;
+  --color-primary-600: #0E5639;
+  --color-primary-700: #0B482F;
+  --color-primary-800: #093A26;
+  --color-primary-900: #072B1C;
+
+  --color-secondary:   #600F30;
+  --color-surface:     #0F603F;
+  --color-surface-subtle: #E7EFEC;
+  --color-line:        #FFFFFF;
+
+  /* Optional extras */
+  --radius-xl: 1rem;
+  --radius-2xl: 1.25rem;
+  --shadow-brand: 0 10px 25px rgba(15, 96, 63, 0.25);
+
+  /* Gradient stops */
+  --color-brand-start: #0F603F;
+  --color-brand-end:   #072B1C;
+}
