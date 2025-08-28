@@ -34,7 +34,7 @@ function App() {
           </div>
 
           <div className='flex justify-between mt-5 font-sans font-bold'>
-            <a target="_blank" href="https://wa.me/33780994477" className='bg-[#25d366] text-[#075e54] p-3 rounded-lg flex-1 flex justify-center cursor-pointer'>
+            <a target="_blank" href="https://chat.whatsapp.com/D5syseOkxCk0b4AYNtJdUU?mode=ems_copy_h_t" className='bg-[#25d366] text-[#075e54] p-3 rounded-lg flex-1 flex justify-center cursor-pointer'>
               <div className='flex items-center gap-2'>
                 <FaWhatsapp size={30} />
                 Join us today on Whatsapp
